@@ -25,7 +25,7 @@ In order to use the `ss-citation-graph-builder`, first you need to acquire an au
 Then, execute the `GetSemanticScholarAuthorCitationGraph.exe` tool with the following command line:
 
 ```bash
-.\GetSemanticScholarAuthorCitationGraph -o [OutFile] -id [AuthorID] -y [Year]
+.\GetSemanticScholarAuthorCitationGraph.exe -o [OutFile] -id [AuthorID] -y [Year]
 ```
 
 Replace:
