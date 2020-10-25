@@ -11,6 +11,10 @@ Semantic Scholar: 1) may not have all information of an author's works, 2) tends
 Be polite! Semantic Scholar allows 100 requests per 5 minutes. If you do not want to get banned, do not increase the request frequency (and do not execute the requests in parallel)!
 
 ---
+**NOTE 3**
+I differentiate between self-citations, co-author citations, and other citations! I define a co-author as someone who has co-authored with the author at least one paper and not as someone who is a co-author of a specific paper when analysing that particular paper's citations.
+
+---
 
 # Build Instructions
 
