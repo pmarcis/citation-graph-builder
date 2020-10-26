@@ -469,7 +469,7 @@ namespace GetSemanticScholarAuthorCitationGraph
         }
 
         /// <summary>
-        /// Exectutest a Web request and returns the response text.
+        /// Exectutes a Web request and returns the response text.
         /// </summary>
         /// <param name="url">URL to execute</param>
         /// <returns>Response</returns>
