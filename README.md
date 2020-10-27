@@ -24,7 +24,7 @@ You may need Visual Studio 2019 or newer to compile the code.
 
 # Usage Instructions
 
-In order to use the `ss-citation-graph-builder`, first you need to acquire an author ID. Go to https://www.semanticscholar.org/, find the author you are interested in, open his/her profile, and copy the multi-digit number that comes after the author's name in the URL.
+In order to use the `citation-graph-builder`, first you need to acquire an author ID. Go to https://www.semanticscholar.org/, find the author you are interested in, open his/her profile, and copy the multi-digit number that comes after the author's name in the URL.
 
 Then, execute the `GetSemanticScholarAuthorCitationGraph.exe` tool with the following command line:
 
@@ -59,7 +59,7 @@ If you use the code for scientific purposes, please refer to it using:
 @ebook{ss-citation-graph-builder,
   author = {Pinnis, Mārcis},
   title  = {{Semantic Scholar Citation Graph Builder}},
-  url    = {https://github.com/pmarcis/ss-citation-graph-builder},
+  url    = {https://github.com/pmarcis/citation-graph-builder},
   year   = {2020},
   note   = {Accessed Oct. 25, 2020}
 }
